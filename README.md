@@ -1,5 +1,5 @@
 # SMS-Spam-Classifier
-
+### Live App : https://sms-spam-classification-app.streamlit.app/
 # Email/SMS Spam Classifier
 
 An end-to-end Machine Learning project that classifies SMS or Email messages into **Spam** or **Ham** (Not Spam) using Natural Language Processing (NLP) and a Multinomial Naive Bayes model.
