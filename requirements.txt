@@ -5,3 +5,5 @@ scikit-learn
 streamlit
 matplotlib
 seaborn
+string
+pickle
